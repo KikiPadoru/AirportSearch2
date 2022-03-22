@@ -51,7 +51,7 @@ class SortArrayList {
     }
 }
 
-class AirportSearch {
+class AirportSearch {//поиск
     private int searchСolumn;
     private String str = "";
     private SortArrayList OurLines;
